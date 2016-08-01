@@ -1,4 +1,4 @@
 # EasyRemind
            好记吧，记账软件
 
-![image](//github.com/zitayangling/EasyRemind/blob/master/EasyRemind.gif)
+![image](http://github.com/zitayangling/EasyRemind/blob/master/EasyRemind.gif)
